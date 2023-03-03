@@ -9,7 +9,7 @@ ra = []
 for _ in range(3):
     num1 = str(randint(1, 10))
     num2 = str(randint(1, 10))
-    q.append(f'{num1} {num2}')
+    q.append(f'{num1}{num2}')
     gcd_value = math.gcd(int(num1), int(num2))
     ra.append(str(gcd_value))
 

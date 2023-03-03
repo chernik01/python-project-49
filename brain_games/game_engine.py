@@ -8,7 +8,7 @@ def game_engine(list, desc):
     print(f"Hello, {name}!")
     print(desc)
     for q, ra in list:
-        print(f'Question: {q}')
+        print('Question:', ' '.join(q))
         a = prompt.string('Your answer: ')
         if ra == a:
             print('Correct!')
