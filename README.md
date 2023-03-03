@@ -4,3 +4,6 @@
 ### Link to brain-even game
 https://asciinema.org/a/qrROnJqinaczWPTZVrXHHgfRp
 
+### Link to brain-calc game
+https://asciinema.org/a/YaraS4v3AlRaZQihPTrcAN6rY
+

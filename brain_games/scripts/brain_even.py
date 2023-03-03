@@ -9,6 +9,7 @@ def is_even():
     print('Answer "yes" if the number is even, otherwise answer "no".')
     flag = True
     i = 1
+
     while i <= 3:
         number = random.randint(1, 100)
         print('Question:', number)
