@@ -12,3 +12,6 @@ https://asciinema.org/a/2CroF5DdfqqFeAPm1xmZJI4az
 
 ### Link to brain-progression game
 https://asciinema.org/a/ClhOqyY2PJu8vvRhp3QZO1qUe
+
+### Link to brain-prime game
+https://asciinema.org/a/wLdFDjrDF9SffgGY2Oba7gfcu
