@@ -1,6 +1,6 @@
 from random import randint
 
-game_desc = 'Answer "yes" if given number is prime. Otherwise answer "no"'
+game_desc = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 q = []
 ra = []
 
